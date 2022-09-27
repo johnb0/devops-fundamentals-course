@@ -1,0 +1,25 @@
+{
+  "name": "devops-fundamentals-course",
+  "private": true,
+  "workspaces": ["lab_3/angular_app"],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn workspace lab-3 test",
+    "test:coverage": "yarn workspace lab-3 test:coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnb0/devops-fundamentals-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnb0/devops-fundamentals-course/issues"
+  },
+  "homepage": "https://github.com/johnb0/devops-fundamentals-course#readme",
+  "devDependencies": {
+    "yarn": "^1.22.19"
+  }
+}
