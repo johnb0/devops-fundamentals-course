@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/johnb0/devops-fundamentals-course/compare/v0.0.1...v0.0.2) (2022-09-27)
+
+
+### Features
+
+* test coverage ([fe1e0b4](https://github.com/johnb0/devops-fundamentals-course/commit/fe1e0b4d6698b0918b607d7ab23184a351e47ebd))
+
 ### [0.0.1](https://github.com/johnb0/devops-fundamentals-course/compare/v0.0.0...v0.0.1) (2022-09-27)
 
 
