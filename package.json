@@ -1,7 +1,7 @@
 {
   "name": "devops-fundamentals-course",
   "private": true,
-  "workspaces": ["lab_3/angular_app"],
+  "workspaces": ["packages/*"],
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
