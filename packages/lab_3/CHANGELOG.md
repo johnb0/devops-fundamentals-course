@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/johnb0/devops-fundamentals-course/compare/v0.0.2...v0.0.3) (2022-09-27)
+
+
+### Features
+
+* codecov github action ([9e04e4e](https://github.com/johnb0/devops-fundamentals-course/commit/9e04e4edc378da97ca8ec61fbe7d34ec90c1df02))
+* lcov coverage report ([da9fb0c](https://github.com/johnb0/devops-fundamentals-course/commit/da9fb0c36995ed3849011a6b248365d89517b322))
+* monorepo restructture ([1d064c7](https://github.com/johnb0/devops-fundamentals-course/commit/1d064c79ba7a11b613a2d8f7ab1a00c762693892))
+* yarn workspaces ([7e718b4](https://github.com/johnb0/devops-fundamentals-course/commit/7e718b449f064e4c090bed1b41663476d876eb37))
+
 ### [0.0.2](https://github.com/johnb0/devops-fundamentals-course/compare/v0.0.1...v0.0.2) (2022-09-27)
 
 
