@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.1](https://github.com/johnb0/devops-fundamentals-course/compare/v0.0.0...v0.0.1) (2022-09-27)
+
+
+### Features
+
+* lab_3 init angular app ([e22591b](https://github.com/johnb0/devops-fundamentals-course/commit/e22591b52c8655ad27c950aefe63d530b9ca2614))
+
 ## 0.0.0 (2022-09-27)
 
 
